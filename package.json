@@ -1,0 +1,23 @@
+{
+  "name": "music-games",
+  "version": "1.0.0",
+  "description": "music games app for react practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Kentauride/music-games.git"
+  },
+  "author": "M Callan",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Kentauride/music-games/issues"
+  },
+  "homepage": "https://github.com/Kentauride/music-games#readme",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
